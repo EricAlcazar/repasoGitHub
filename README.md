@@ -2,14 +2,19 @@
 ## Encabezado 2 (H2)
 ### Encabezado 3 (H3)
 ###### Encabezado 4 (H4)
+
 *__SOY EL__*
-**MEJOR**
+*__MEJOR__*
+
 1. Messi
 2. Cristiano
+3. Maradona
+4. Pele
 
 
 * SI
 * NO
+
 ```html
 <html>
   <head>
