@@ -7,7 +7,9 @@ __SOY EL__
 1. Messi
 2. Cristiano
 
-* Po
+
+* SI
+* NO
 ```html
 <html>
   <ok>
